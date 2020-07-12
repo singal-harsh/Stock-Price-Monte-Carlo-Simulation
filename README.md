@@ -1,1 +1,3 @@
 # Stock-Price-Monte-Carlo-Simulation
+
+This study investigates how Monte Carlo simulations of random walks can be used to model the future stock prices. The implemented method uses a mathematical model called Geometric Brownian Motion (GBM) in order to simulate stock prices. 7-year stock price data of Reliance Industries Limited was used as a data set for the simulations to conduct study for 1 month, 3 months, 6 months, and 12 months period. Probability factor for predicted stock price to be greater than the actual price was then calculated from the simulations. The two fundamental parameters which determine the outcome of the simulations are the mean return of a stock and the standard deviation of historical returns.
